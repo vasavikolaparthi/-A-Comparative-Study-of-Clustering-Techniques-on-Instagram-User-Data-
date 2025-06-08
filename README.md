@@ -1,4 +1,4 @@
-# -A-Comparative-Study-of-Clustering-Techniques-on-Instagram-User-Data-
+# A-Comparative-Study-of-Clustering-Techniques-on-Instagram-User-Data-
 
 This project applies various clustering techniques to a real-world dataset of Instagram users, focusing on their visit frequency and spending behavior. By using unsupervised learning methods, we aim to identify meaningful user segments that can inform marketing strategies and user engagement efforts.
 
